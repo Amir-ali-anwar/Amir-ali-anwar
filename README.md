@@ -1,6 +1,6 @@
 ### Hi there, I'm Amir Ali Anwar 👋 
 
-## I'm a A passionate frontend developer and Teacher from Pakistan!!
+## I'm a Passionate Frontend developer and Teacher from Pakistan!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators

@@ -1,9 +1,9 @@
 ### Hi there, I'm Amir Ali Anwar 👋 
 ## I'm a Passionate Frontend developer and Teacher from Pakistan!!
 
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning new technologies like javascript, Machine learning, Deep learning and Computer vision 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amir-ali-anwar&label=Profile%20views&color=0e75b6&style=flat" alt="amir-ali-anwar" /> </p>
 

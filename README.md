@@ -1,7 +1,7 @@
 ### Hi there, I'm Amir Ali Anwar 👋 
 ## I'm a Passionate Frontend developer and Teacher from Pakistan!!
 
-- 🌱 I’m currently learning new technologies like javascript, Machine learning, Deep learning and Computer vision 
+- 🌱 I’m interested in learning new technologies like Machine learning, Deep learning, Blockchain and Computer vision 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 

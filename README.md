@@ -1,9 +1,6 @@
 ### Hi there, I'm Amir Ali Anwar  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer;Teacher+from+Pakistan;)](https://git.io/typing-svg)
 
-<img align="right" alt="PNG" src="https://github.com/dinushchathurya/dinushchathurya/blob/master/cat.png" width="300" height="300" />
-<!-- ### I'm Social Media Influencer, Developer, Content Creator and Blogger! -->
-<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="30px"> -->
 
 - 🔭 I’m interested in learning new technologies like Machine learning, Deep learning, Blockchain and Computer vision 
 - 👯 I’m looking to collaborate with other content creators

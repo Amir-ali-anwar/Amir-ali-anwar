@@ -8,7 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amir-ali-anwar&label=Profile%20views&color=0e75b6&style=flat" alt="amir-ali-anwar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amir-ali-anwar" alt="amir-ali-anwar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amir-ali-anwar" alt="
+amir-ali-anwar" /></a> </p>
 
 ### Languages 
 
@@ -23,6 +24,7 @@
 
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"> </a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white" ></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 <!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" ></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Vue.js-35495E?&logo=vue-dot-js&logoColor=4FC08D" ></a> -->
 <!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/GraphQl-E10098?&logo=graphql&logoColor=white" ></a> -->

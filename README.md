@@ -94,5 +94,5 @@
 ### Connect with me
 
 [<img src="https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=white"/>](https://www.facebook.com/profile.php?id=100002904970623)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white"/>](https://twitter.com/DinushChathurya)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white"/>](https://twitter.com/Amiralianwar3)
 

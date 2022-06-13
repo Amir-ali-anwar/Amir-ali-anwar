@@ -1,24 +1,135 @@
-### Hi there, I'm Amir Ali Anwar 👋 
-## I'm a Passionate Frontend developer and Teacher from Pakistan!!
+### Hi there, I'm Amir Ali Anwar  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Engineer;;)](https://git.io/typing-svg)
 
-- 🌱 I’m interested in learning new technologies like Machine learning, Deep learning, Blockchain and Computer vision 
+<img align="right" alt="PNG" src="https://github.com/dinushchathurya/dinushchathurya/blob/master/cat.png" width="300" height="300" />
+<!-- ### I'm Social Media Influencer, Developer, Content Creator and Blogger! -->
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="30px"> -->
+
+- 🔭 I’m interested in learning new technologies like Machine learning, Deep learning, Blockchain and Computer vision 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amir-ali-anwar&label=Profile%20views&color=0e75b6&style=flat" alt="amir-ali-anwar" /> </p>
+### Languages 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amir-ali-anwar" alt="amir-ali-anwar" /></a> </p>
+<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white" ></a>
+<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white" ></a>
+<a href="#"><img alt="JS" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black" ></a>
+<a href="#"><img alt="Boostrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?&logo=bootstrap" ></a>
+<a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white" ></a>
+<a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
+<!-- <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" ></a>
+<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white" ></a> -->
+<!-- <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white" ></a> -->
 
-- 🌱 I’m currently learning **Node.js**
-- 🔭 I’m currently working on [seeBiz](https://www.seebiz.com/inventory/)
+---
+### Frameworks
 
-### Languages and Tools:
+<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Laravel-black?&logo=laravel&logoColor" ></a>
+<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Ionic-3880FF?&logo=ionic&logoColor=white" ></a>
+<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"> </a>
+<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white" ></a>
+<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white" ></a>
+<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white" ></a>
+<!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" ></a>
+<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Vue.js-35495E?&logo=vue-dot-js&logoColor=4FC08D" ></a> -->
+<!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/GraphQl-E10098?&logo=graphql&logoColor=white" ></a> -->
+<!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white" ></a> -->
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-<img align="left" style="margin-bottom:20px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=amir-ali-anwar&show_icons=true&locale=en&layout=compact" alt="amir-ali-anwar" />
+---
+
+### Databases
+
+<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+
+---
+
+### Hosting
+
+<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Amazon_AWS-232F3E?&logo=amazon-aws&logoColor=white"></a>
+<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Digital_Ocean-0080FF?&logo=DigitalOcean&logoColor=white"></a>
+<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Netlify-00C7B7?&logo=netlify&logoColor=white"></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white" ></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Nginx-009639?&logo=nginx&logoColor=whitet"></a> 
+
+---
+### DevOps
+
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-Docker-black?&logo=docker"></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Jenkins-D24939?&logo=Jenkins&logoColor=white"></a>
+
+---
+
+### IDES
+
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Atom-66595C?&logo=Atom&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&logo=sublime-text&logoColor=important"></a>
+
+---
+
+### Version Controlling
+
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-Git-black?&logo=git" ></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" ></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/GitLab-330F63?&logo=gitlab&logoColor=white" ></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Bitbucket-330F63?&logo=bitbucket&logoColor=white" ></a>
+
+---
+
+### OS
+
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" ></a>
+
+---
+
+### Browsers
+
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Google_chrome-4285F4?&logo=Google-chrome&logoColor=white" ></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Firefox_Browser-FF7139?&logo=Firefox-Browser&logoColor=white" ></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Opera-FF1B2D?&logo=Opera&logoColor=white" ></a>
+
+---
+
+### Workspace
+
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/AMD-Radeon_R5-ED1C24?&logo=amd&logoColor=white" ></a>
+
+---
+
+### Software and Other Tools
+
+<a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+<a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
+
+---
+
+### Opensource
+
+<a href="https://packagist.org/packages/dinushchathurya/"><img alt="OBS Studio" src="https://img.shields.io/badge/Packagist-F28D1A?logo=packagist&logoColor=white"></a>
+<a href="https://www.npmjs.com/~dinush"><img alt="OBS Studio" src="https://img.shields.io/badge/Npm-181717?logo=npm&logoColor=white"></a>
+<a href="https://www.kaggle.com/dinushchathurya"><img alt="OBS Studio" src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white"></a>
+
+---
+
+### Research 
+
+<a href="https://www.researchgate.net/publication/330912896_ARE_THE_SRI_LANKAN_CYBER_CRIME_LAWS_SUFFICIENT_TO_SAFEGUARD_TO_IT_PROFESSIONALS_AND_THE_VICTIMS_OF_THE_CYBER_ATTACKS"><img alt="Researchgate" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&logo=ResearchGate&logoColor=white"></a>
+
+---
 
 
+---
 
+### Connect with me
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amir-ali-anwar&show_icons=true&locale=en" alt="amir-ali-anwar" />
-
+[<img src="https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=white"/>](https://m.facebook.com/dinush.chathurya)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white"/>](https://twitter.com/DinushChathurya)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dinushchathurya)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCEByobwqWIcn7ujLG9TTDcQ)
+[<img src="https://img.shields.io/badge/Website-4353FF?&logo=webflow&logoColor=white"/>](https://dinushchathurya.github.io)
+[<img src="https://img.shields.io/badge/Radio-E434AA?&logo=drooble&logoColor=white"/>](https://dinushchathurya.github.io/radio)
+[<img src="https://img.shields.io/badge/Patreon-FF424D?&logo=patreon&logoColor=white"/>](https://www.patreon.com/dinushchathurya)
+[<img src="https://img.shields.io/badge/Blog-FFA500?&logo=rss&logoColor=white"/>](https://codingtricks.io/)

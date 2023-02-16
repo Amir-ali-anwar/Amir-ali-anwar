@@ -4,7 +4,7 @@
 
 - 🔭 I’m interested in learning new technologies like Machine learning, Deep learning, Blockchain and Computer vision 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amir-ali-anwar&label=Profile%20views&color=0e75b6&style=flat" alt="amir-ali-anwar" /> </p>
 

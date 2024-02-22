@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer;Teacher+from+Pakistan;)](https://git.io/typing-svg)
 
 
-- 🔭 I’m interested in learning new technologies like Machine learning, Deep learning, Blockchain and Computer vision 
+- 🔭 I’m interested in learning new technologies like Machine learning, Deep learning, Data mining, Blockchain and Computer vision etc. 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Contribute more to Open Source projects
 

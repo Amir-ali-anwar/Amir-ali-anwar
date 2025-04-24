@@ -6,7 +6,7 @@ Hi there! I'm **Amir Ali Anwar**, a passionate **Full-Stack Developer** and **Te
 
 🔭 I’m currently diving deep into **Kubernetes**, **Docker**, **AWS/GCP**, and expanding my knowledge in **Machine Learning** and **Blockchain**.
 
-🌱 In 2024, I aim to contribute more to **Open-Source Projects**, **expand my tech stack**, and **collaborate** with like-minded developers around the world.
+🌱 In 2025, I aim to contribute more to **Open-Source Projects**, **expand my tech stack**, and **collaborate** with like-minded developers around the world.
 
 ---
 

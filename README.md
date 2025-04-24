@@ -73,7 +73,7 @@ I love **collaborating on open-source projects**, especially those focused on **
 
 ---
 
-## 🌟 2024 Goals
+## 🌟 2025 Goals
 - 🎯 Contribute to open-source projects focused on **web development**, **DevOps**, and **cloud technologies**.
 - 🚀 Enhance my skills in **Kubernetes** and **Cloud Infrastructure** (AWS/GCP).
 - 💻 Continue solving complex problems to **prepare for top-tier tech interviews**.

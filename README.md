@@ -1,54 +1,49 @@
-# 👋 Hello, I'm **Amir Ali Anwar** 🌟  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer;Fullstack+Developer;Teacher+from+Pakistan;)](https://git.io/typing-svg)
+# 👋 Hello, I'm **Amir Ali Anwar** 🌟
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Full-Stack+Developer;AI+Enthusiast;)](https://git.io/typing-svg)
+
+### 💻 Tech Stack & Skills
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/GCP-F9AB00?style=for-the-badge&logo=google-cloud&logoColor=FFFFFF)
+
+---
 
 ## About Me 🤓
-Hi there! I'm **Amir Ali Anwar**, a passionate **Full-Stack Developer** and **Tech Enthusiast** from Pakistan. I'm dedicated to **building scalable web applications** using the latest tech, and constantly exploring **DevOps**, **Cloud Technologies**, and more.
+Hi! I'm **Amir Ali Anwar**, a passionate **MERN Stack & Frontend Developer** from Pakistan.  
+I love building **scalable, responsive, and intelligent web applications**.  
+Currently exploring **AI/ML, Cloud, and DevOps** to enhance full-stack development.
 
-🔭 I’m currently diving deep into **Kubernetes**, **Docker**, **AWS/GCP**, and expanding my knowledge in **Machine Learning** and **Blockchain**.
+🔭 I’m focusing on **React.js, Next.js, Node.js, MongoDB**, and expanding skills in **Machine Learning** and **Cloud Technologies** (AWS/GCP/Azure).  
 
-🌱 In 2025, I aim to contribute more to **Open-Source Projects**, **expand my tech stack**, and **collaborate** with like-minded developers around the world.
-
----
-
-## 🚀 Technologies & Tools
-
-### 💻 **Languages & Frameworks**
-- **HTML** | **CSS** | **JavaScript** | **TypeScript**
-- **React.js** | **Next.js** | **Vue.js**
-- **Redux** | **React Query** | **Zustand** (State Management)
-- **Tailwind CSS** | **Ant Design** | **Bootstrap**
-- **GraphQL** | **RESTful APIs**
-
-### 🧑‍💻 **Backend & Fullstack**
-- **Node.js** | **Express.js**
-- **MongoDB** | **PostgreSQL** | **MySQL**
-- **Docker** | **Kubernetes** | **Nginx**
-- **GitHub Actions** | **CI/CD Pipelines**
-  
-### 🌐 **Cloud & DevOps**
-- **Amazon Web Services (AWS)** | **Google Cloud (GCP)** | **Microsoft Azure**
-- **Terraform** | **Jenkins** | **CircleCI**
-- **Ansible** | **Helm**
+🌱 In 2025, my goal is to **contribute to open-source**, **expand my tech stack**, and collaborate with other developers globally.
 
 ---
 
-## 🌍 My Latest Projects
+## 🌍 Portfolio & Projects
 
-🚀 **[CareerSync](#)**  
-A career marketplace platform focused on AI-powered job matching, personalized recommendations, and mentorship programs.  
-**Tech Stack**: React, Node.js, MongoDB, Docker, Kubernetes, AWS
+🌐 **Portfolio:** [amiralianwar-portfolio.web.app](https://amiralianwar-portfolio.web.app)
 
-🎨 **[Booksy](#)**  
-A marketplace for booking beauty and wellness services, with seamless payment integration and appointment management.  
-**Tech Stack**: React, Node.js, MongoDB, Docker, AWS
+### Notable Projects
+- **CareerSync** – AI-powered job matching & mentorship platform  
+  Tech: React, Node.js, MongoDB, Docker, Kubernetes, AWS  
 
-💡 **[Groupon Clone](#)**  
-A clone of Groupon focusing on eCommerce deals, vouchers, and discounts.  
-**Tech Stack**: React, Ruby on Rails, PostgreSQL
+- **Booksy** – Marketplace for beauty & wellness services  
+  Tech: React, Node.js, MongoDB, Docker, AWS  
 
-💳 **[Expense Tracker](#)**  
-Track your spending and visualize your expenses with categories and insights.  
-**Tech Stack**: React, Node.js, MongoDB, Material UI
+- **Groupon Clone** – eCommerce deals & vouchers platform  
+  Tech: React, Ruby on Rails, PostgreSQL  
+
+- **Expense Tracker** – Track & visualize personal spending  
+  Tech: React, Node.js, MongoDB, Material UI  
 
 ---
 
@@ -59,68 +54,22 @@ Track your spending and visualize your expenses with categories and insights.
 ---
 
 ## 💬 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/amir-ali-anwar)  
-- [Twitter](https://twitter.com/Amiralianwar3)  
-- [Facebook](https://www.facebook.com/profile.php?id=100002904970623)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/amir-ali-anwar) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF)](https://twitter.com/Amiralianwar3) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge)](https://amiralianwar-portfolio.web.app)
 
 ---
 
-## 💡 I’m Open to Collaborations!
-I love **collaborating on open-source projects**, especially those focused on **web performance**, **DevOps**, **cloud infrastructure**, and **emerging technologies**. Let’s create something amazing together!
-
-💌 Feel free to reach out to me for collaboration, mentorship, or a casual tech discussion. 🤝
+## 💡 Open to Collaborations
+I love collaborating on **open-source projects**, especially in **web development, AI/ML, DevOps, and Cloud Infrastructure**.  
+Feel free to reach out for mentorship, collaboration, or tech discussions! 🤝
 
 ---
 
 ## 🌟 2025 Goals
-- 🎯 Contribute to open-source projects focused on **web development**, **DevOps**, and **cloud technologies**.
-- 🚀 Enhance my skills in **Kubernetes** and **Cloud Infrastructure** (AWS/GCP).
-- 💻 Continue solving complex problems to **prepare for top-tier tech interviews**.
-- 🌍 Build and scale **impactful applications** for clients, startups, and the community.
+- Contribute to impactful **open-source projects**  
+- Master **Kubernetes, Cloud, and DevOps**  
+- Build **intelligent, scalable web apps** using MERN & AI integrations
 
 ---
 
-## 📈 More Links
-
-- [Portfolio](#)
-- [Blog](#)
-- [LeetCode](https://leetcode.com/)
-- [CodePen](https://codepen.io/)
-
----
-
-#### 📜 "Code is like humor. When you have to explain it, it’s bad." — Cory House
-
----
-
-### 🛠️ Tools & Technologies
-
-#### 🧑‍💻 **Coding Tools**:
-- **VSCode** | **Sublime Text** | **Atom**
-- **Postman** | **Swagger** (API Testing)
-- **Jest** | **Mocha** | **Chai** (Testing)
-
-#### 🔧 **DevOps & Infrastructure**:
-- **Docker** | **Kubernetes** | **Nginx**
-- **AWS** | **GCP** | **Azure**
-- **CI/CD** | **Terraform**
-
-#### 💾 **Version Control & Collaboration**:
-- **Git** | **GitHub** | **Bitbucket**
-- **GitLab** | **SourceTree**
-
-#### 🌐 **Cloud Hosting**:
-- **Heroku** | **Netlify** | **AWS** | **Vercel**
-
----
-
-## 💬 Let's Connect!  
-I’m always open to conversations about **web development**, **DevOps**, and **new technologies**. Feel free to send me a message or connect with me on social media:
-
-- [LinkedIn](https://www.linkedin.com/in/amir-ali-anwar)  
-- [Twitter](https://twitter.com/Amiralianwar3)
-
----
-
-Thanks for visiting my profile! 😊 Looking forward to collaborating, learning, and growing with the awesome GitHub community! ✨

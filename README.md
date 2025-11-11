@@ -1,6 +1,8 @@
 # 👋 Hello, I'm **Amir Ali Anwar** 🌟
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Full-Stack+Developer;AI+Enthusiast;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=4000&pause=1000&color=00F7FF&background=282C34&lines=Frontend+Developer;Full-Stack+Developer;AI+Enthusiast;MERN+Stack+Developer;)](https://git.io/typing-svg)
+
+---
 
 ### 💻 Tech Stack & Skills
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -17,39 +19,37 @@
 
 ---
 
-## About Me 🤓
+## 🤓 About Me
 Hi! I'm **Amir Ali Anwar**, a passionate **MERN Stack & Frontend Developer** from Pakistan.  
 I love building **scalable, responsive, and intelligent web applications**.  
 Currently exploring **AI/ML, Cloud, and DevOps** to enhance full-stack development.
 
-🔭 I’m focusing on **React.js, Next.js, Node.js, MongoDB**, and expanding skills in **Machine Learning** and **Cloud Technologies** (AWS/GCP/Azure).  
+🔭 Focusing on **React.js, Next.js, Node.js, MongoDB**, and expanding skills in **AI/ML & Cloud Technologies (AWS/GCP/Azure)**  
 
-🌱 In 2025, my goal is to **contribute to open-source**, **expand my tech stack**, and collaborate with other developers globally.
+🌱 In 2025, I aim to **contribute to open-source**, **expand my tech stack**, and collaborate with developers globally.  
 
 ---
 
 ## 🌍 Portfolio & Projects
 
-🌐 **Portfolio:** [amiralianwar-portfolio.web.app](https://amiralianwar-portfolio.web.app)
+🌐 **Portfolio:** [amiralianwar-portfolio.web.app](https://amiralianwar-portfolio.web.app)  
 
 ### Notable Projects
-- **CareerSync** – AI-powered job matching & mentorship platform  
-  Tech: React, Node.js, MongoDB, Docker, Kubernetes, AWS  
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **CareerSync** | AI-powered job matching & mentorship platform | React, Node.js, MongoDB, Docker, Kubernetes, AWS |
+| **Booksy** | Marketplace for beauty & wellness services | React, Node.js, MongoDB, Docker, AWS |
+| **Groupon Clone** | eCommerce deals & vouchers platform | React, Ruby on Rails, PostgreSQL |
+| **Expense Tracker** | Track & visualize personal spending | React, Node.js, MongoDB, Material UI |
 
-- **Booksy** – Marketplace for beauty & wellness services  
-  Tech: React, Node.js, MongoDB, Docker, AWS  
-
-- **Groupon Clone** – eCommerce deals & vouchers platform  
-  Tech: React, Ruby on Rails, PostgreSQL  
-
-- **Expense Tracker** – Track & visualize personal spending  
-  Tech: React, Node.js, MongoDB, Material UI  
+*(You can replace these with GIFs/screenshots for more visual appeal)*
 
 ---
 
 ## 📊 GitHub Stats
-
 ![Amir Ali Anwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amir-ali-anwar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-ali-anwar&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amir-ali-anwar&theme=radical)
 
 ---
 
@@ -62,7 +62,7 @@ Currently exploring **AI/ML, Cloud, and DevOps** to enhance full-stack developme
 
 ## 💡 Open to Collaborations
 I love collaborating on **open-source projects**, especially in **web development, AI/ML, DevOps, and Cloud Infrastructure**.  
-Feel free to reach out for mentorship, collaboration, or tech discussions! 🤝
+Feel free to reach out for mentorship, collaboration, or tech discussions! 🤝  
 
 ---
 
@@ -73,3 +73,4 @@ Feel free to reach out for mentorship, collaboration, or tech discussions! 🤝
 
 ---
 
+#### 📜 "Code is like humor. When you have to explain it, it’s bad." — Cory House

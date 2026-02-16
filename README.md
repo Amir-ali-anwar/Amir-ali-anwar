@@ -1,18 +1,34 @@
 # 👋 Hi, I'm Amir Ali Anwar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=750&lines=Frontend+Engineer;MERN+Stack+Developer;Full-Stack+Builder;AI+Engineer+in+Progress;Cloud+%26+DevOps+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=900&lines=Frontend+Engineer;MERN+Stack+Developer;Full-Stack+System+Builder;AI+Engineer+in+Progress;Cloud+%26+DevOps+Enthusiast;Future+AI+Systems+Architect" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 Full-Stack MERN Developer from Pakistan 🇵🇰  
-Building **scalable SaaS applications and AI-powered systems**.
+Building scalable SaaS platforms and AI-powered systems.
 
 Currently transitioning into a **Production-Level AI Engineer**,  
-focused on integrating Machine Learning into real-world products.
+with a long-term vision of becoming an **AI Systems Architect**.
+
+I focus on:
+- Engineering scalable applications
+- Integrating AI into real-world products
+- Designing cloud-ready architectures
+- Writing clean, modular, production-grade code
+
+---
+
+# 💼 Professional Identity
+
+- 🖥 Frontend Engineer
+- 🛠 MERN Stack Developer
+- 🤖 AI/ML Practitioner
+- ☁️ Cloud & DevOps Learner
+- 🧠 Problem Solver (DSA Focused)
 
 ---
 
@@ -23,9 +39,10 @@ focused on integrating Machine Learning into real-world products.
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap" />
 </p>
 
-- Component-driven architecture  
-- Responsive & performance-focused UI  
-- Modern React & Next.js patterns  
+- Component-driven architecture
+- Performance optimization
+- Clean UI/UX structure
+- Scalable frontend folder architecture
 
 ---
 
@@ -34,84 +51,127 @@ focused on integrating Machine Learning into real-world products.
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-- REST API Design  
-- JWT Authentication  
-- MVC Architecture  
-- Scalable Backend Systems  
-- Clean Code & Modular Structure  
+- RESTful API Design
+- JWT Authentication & Authorization
+- MVC Architecture
+- Middleware-based scaling
+- Modular backend structure
+- Production-ready server logic
 
 ---
 
 # 🤖 Artificial Intelligence & Machine Learning
 
-- Machine Learning (Regression, Classification, Clustering)
-- Scikit-learn & XGBoost
-- Deep Learning (ANN, CNN, RNN, LSTM)
+### Core ML Skills
+- Regression & Classification Models
+- Clustering Techniques
+- Model Evaluation & Cross Validation
+- Hyperparameter Tuning
+- Feature Engineering
+
+### Tools & Frameworks
+- Scikit-learn
+- XGBoost
 - TensorFlow
+- Pandas & NumPy
+
+### Deep Learning
+- ANN
+- CNN
+- RNN
+- LSTM
+
+### AI Domains Explored
 - NLP (Embeddings, Sentiment Analysis)
 - Computer Vision (Image Classification)
 - Time Series Forecasting
-- Feature Engineering & Model Evaluation
-
-### 🎯 2026 Focus
-- Transformers & LLMs  
-- Embedding-based Recommendation Systems  
-- Retrieval-Augmented Generation (RAG)  
-- Production ML Deployment (MLOps)  
-- AI System Architecture  
+- Recommendation System Concepts
 
 ---
 
-# ☁️ DevOps & Cloud
+# 🎯 2026 AI Roadmap
+
+- Master Transformers & LLM Architecture
+- Build RAG-based Applications
+- Implement Vector Databases
+- Deploy AI systems using Docker & Kubernetes
+- Learn MLOps (Monitoring, Model Versioning, CI/CD for ML)
+- Build 5+ production-level AI projects
+- Scale CareerSync with intelligent AI matching
+
+---
+
+# ☁️ DevOps & Cloud Engineering
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,github" />
 </p>
 
-- Dockerized Applications  
-- Kubernetes Fundamentals  
-- CI/CD Pipelines  
-- Azure & AWS Deployments  
-- Cloud-Native System Design  
+- Containerized Applications
+- Kubernetes Fundamentals
+- CI/CD Workflows
+- Azure & AWS Deployments
+- Cloud Architecture Basics
 
 ---
 
-# 🧠 Problem Solving & DSA
+# 🧠 Problem Solving & Data Structures
 
-I actively practice Data Structures & Algorithms to strengthen:
+Actively practicing Data Structures & Algorithms to sharpen:
 
-- Logical Thinking  
-- Optimization Skills  
-- Time & Space Complexity Analysis  
-- Clean & Efficient Code Writing  
+- Logical thinking
+- Performance optimization
+- Clean algorithm design
+- Time & Space complexity analysis
 
-📌 Platforms:
-- LeetCode  
-- Competitive Programming Practice  
+### Topics Covered
+- Binary Search
+- Two Pointers
+- Sliding Window
+- Recursion & Backtracking
+- Graph Algorithms
+- Trees
+- Dynamic Programming (Learning Phase)
 
-Focused on mastering:
-- Binary Search  
-- Sliding Window  
-- Two Pointers  
-- Recursion & Backtracking  
-- Graph Algorithms  
-- Trees & Dynamic Programming  
+Platforms:
+- LeetCode
+- Competitive Programming Practice
 
 ---
 
 # 🚀 Flagship Project — CareerSync
 
-AI-powered job matching & mentorship platform.
+AI-powered job matching & mentorship ecosystem.
 
-**Current Stack:**  
-React • Node.js • MongoDB • Docker • Kubernetes • AWS  
+### Current Stack
+React • Node.js • MongoDB • Docker • Kubernetes • AWS
 
-**AI Vision (2026):**
-- AI-based job-candidate embeddings  
-- Skill gap analysis engine  
-- Personalized recommendations  
-- LLM-powered resume analysis  
-- Intelligent hiring assistant  
+### Future AI Integration
+- Candidate-job embeddings
+- Skill gap analysis engine
+- Personalized recommendations
+- Resume scoring using NLP
+- AI interview assistant
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Machine Learning
+- Transformers & LLM Fundamentals
+- System Design Concepts
+- MLOps Practices
+- Kubernetes Advanced Concepts
+
+---
+
+# 🧩 Engineering Principles
+
+- Write modular & maintainable code
+- Design scalable systems
+- Optimize before scaling
+- Think product-first, then code
+- Always measure performance
 
 ---
 
@@ -127,32 +187,40 @@ React • Node.js • MongoDB • Docker • Kubernetes • AWS
 
 ---
 
-# 🎯 2026 Goals
+# 🏆 2026 Mission
 
-- Become a Production-Level AI Engineer  
-- Build 5+ AI-Powered SaaS Applications  
-- Master MLOps & Scalable AI Deployment  
-- Contribute to AI Open Source  
-- Scale CareerSync into an AI-driven hiring ecosystem  
+- Become a Production-Level AI Engineer
+- Build Intelligent SaaS Systems
+- Contribute to Open Source AI
+- Develop Strong System Design Knowledge
+- Establish Personal Brand in AI + Full-Stack Engineering
 
 ---
 
-# 🤝 Let’s Build Something Impactful
+# 🤝 Let's Build Something Meaningful
 
 I’m open to collaborating on:
 
-- AI & LLM-based Applications  
-- SaaS Platforms  
-- MERN Stack Products  
-- Cloud-Native Architectures  
-- Startup-Level Ideas  
+- AI & LLM Applications
+- SaaS Products
+- MERN Stack Platforms
+- Cloud-Native Systems
+- Startup-Level Projects
 
-📩 If you're working on something ambitious — let's connect.
+If you're building something ambitious — let's connect.
 
 ---
 
-### 💡 Philosophy
+# 📬 Connect With Me
+
+🌐 Portfolio: https://amiralianwar-portfolio.web.app  
+💼 LinkedIn: (Add your link)  
+📧 Email: (Add your email)
+
+---
+
+# 💡 Personal Philosophy
 
 > Build scalable systems.  
-> Learn future-proof skills.  
+> Master modern technologies.  
 > Engineer intelligent solutions.

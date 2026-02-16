@@ -1,133 +1,120 @@
-# 👋 Hello, I'm **Amir Ali Anwar** 🌟
+# 👋 Hello, I'm Amir Ali Anwar
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=4000&pause=1000&color=00F7FF&background=282C34&lines=Frontend+Developer;MERN+Stack+Developer;Full-Stack+Engineer;AI+Engineer+in+Progress;Cloud+%26+DevOps+Enthusiast;)](https://git.io/typing-svg)
-
----
-
-## 💻 Tech Stack & Skills
-
-### 🖥 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=750&lines=Frontend+Engineer;MERN+Stack+Developer;Full-Stack+Builder;AI+Engineer+in+Progress;Cloud+%26+DevOps+Enthusiast" />
+</p>
 
 ---
 
-### 🛠 MERN & Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
-![JWT Auth](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+## 🚀 About Me
+
+I'm a **Full-Stack MERN Developer** from Pakistan 🇵🇰  
+Focused on building **scalable SaaS products and AI-powered systems**.
+
+Currently evolving from **Full-Stack Engineer → AI Engineer**,  
+integrating Machine Learning into production-ready applications.
 
 ---
 
-### 🤖 AI / Machine Learning
-- Machine Learning (Supervised & Unsupervised)
-- Scikit-learn
-- XGBoost
-- Model Evaluation & Hyperparameter Tuning
+# 💻 Core Tech Stack
+
+## 🖥 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap" />
+</p>
+
+## 🛠 Backend (MERN)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+**Additional Backend Skills:**  
+REST APIs • Authentication (JWT) • MVC Architecture • Scalable API Design
+
+---
+
+# 🤖 AI / Machine Learning
+
+- Machine Learning (Regression, Classification, Clustering)
+- Scikit-learn & XGBoost
 - Deep Learning (ANN, CNN, RNN, LSTM)
 - TensorFlow
-- NLP (Tokenization, Embeddings, Sentiment Analysis)
+- NLP (Embeddings, Sentiment Analysis)
 - Computer Vision (Image Classification)
 - Time Series Forecasting
-- Data Preprocessing & Feature Engineering
+- Feature Engineering & Model Evaluation
+
+🎯 2026 Focus:
+- Transformers & LLMs  
+- Embedding-based Recommendation Systems  
+- RAG Architectures  
+- Production ML Deployment  
 
 ---
 
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=FFFFFF)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FFFFFF)
-![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge)
+# ☁️ DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,github" />
+</p>
+
+Dockerized applications • Kubernetes basics • CI/CD workflows • Cloud deployment (Azure & AWS)
 
 ---
 
-## 🤓 About Me
+# 🚀 Featured Project
 
-Hi! I'm **Amir Ali Anwar**, a passionate **MERN Stack & Frontend Developer** from Pakistan 🇵🇰  
+## CareerSync — AI-Powered Hiring Platform
 
-I specialize in building **scalable, responsive, and intelligent web applications**.  
+An intelligent job-matching & mentorship ecosystem.
 
-Currently expanding into **AI Engineering, MLOps, and Cloud Architecture** to build production-ready intelligent systems.
+**Current Stack:**  
+React • Node.js • MongoDB • Docker • Kubernetes • AWS  
 
-🔭 Focus Areas:
-- Advanced React & Next.js Architecture  
-- Backend System Design  
-- AI Integration into Web Applications  
-- Cloud-Native & Containerized Deployments  
-
-🌱 2026 Goal:  
-Transition fully into a **Production-Level AI Engineer** while integrating AI into real-world SaaS products.
+**2026 AI Vision:**  
+- AI-based job-candidate matching  
+- Skill gap analysis engine  
+- Personalized recommendations  
+- LLM-powered resume analysis  
 
 ---
 
-## 🎯 2026 Goals & Vision
+# 📊 GitHub Analytics
 
-- Build AI-powered SaaS platforms  
-- Master Transformers & LLM-based applications  
-- Implement Embedding-based recommendation systems  
-- Deploy ML models using Docker & Kubernetes  
-- Learn MLOps (Monitoring, Versioning, CI/CD for ML)  
-- Contribute to AI & Open Source Projects  
-- Scale **CareerSync** with AI-based matching engine  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amir-ali-anwar&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
----
-
-## 🌍 Portfolio & Projects
-
-🌐 **Portfolio:**  
-https://amiralianwar-portfolio.web.app  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amir-ali-anwar&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 🚀 Notable Projects
+# 🎯 2026 Goals
 
-#### 🔹 CareerSync  
-AI-powered job matching & mentorship platform  
-**Tech:** React, Node.js, MongoDB, Docker, Kubernetes, AWS  
-
-#### 🔹 Booksy  
-Marketplace for beauty & wellness services  
-**Tech:** React, Node.js, MongoDB, Docker, AWS  
-
-#### 🔹 Groupon Clone  
-eCommerce deals & vouchers platform  
-**Tech:** React, Ruby on Rails, PostgreSQL  
-
-#### 🔹 Expense Tracker  
-Track & visualize personal spending  
-**Tech:** React, Node.js, MongoDB  
+- Become a Production-Level AI Engineer  
+- Build 5+ AI-powered SaaS Projects  
+- Master MLOps & Model Deployment  
+- Contribute to AI Open Source  
+- Scale CareerSync with AI Matching Engine  
 
 ---
 
-## 📊 GitHub Stats
+# 🤝 Open to Collaboration
 
-![Amir Ali Anwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amir-ali-anwar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-ali-anwar&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amir-ali-anwar&theme=radical)
-
----
-
-## 🤝 Open to Collaborations
-
-I love collaborating on:
+Interested in working on:
 
 - MERN Stack Applications  
-- AI/ML Projects  
-- SaaS Platforms  
-- Cloud & DevOps Implementations  
-- Startup-Level Product Development  
-
-Feel free to reach out for collaboration, mentorship, or tech discussions! 🤝
+- AI & ML Projects  
+- SaaS Products  
+- Cloud-Native Systems  
+- Startup-Level Ideas  
 
 ---
 
-#### 📜 "Code is like humor. When you have to explain it, it’s bad." — Cory House
+### 💡 Philosophy
+
+> Build scalable systems.  
+> Learn future-proof skills.  
+> Engineer intelligent solutions.

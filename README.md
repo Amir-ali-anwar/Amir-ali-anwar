@@ -214,8 +214,8 @@ If you're building something ambitious — let's connect.
 # 📬 Connect With Me
 
 🌐 Portfolio: https://amiralianwar-portfolio.web.app  
-💼 LinkedIn: (Add your link)  
-📧 Email: (Add your email)
+💼 LinkedIn: https://www.linkedin.com/in/amir-ali-anwar  
+📧 Email: amiralianwar611@gmail.com
 
 ---
 

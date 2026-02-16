@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Amir Ali Anwar
+# 👋 Hi, I'm Amir Ali Anwar
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=750&lines=Frontend+Engineer;MERN+Stack+Developer;Full-Stack+Builder;AI+Engineer+in+Progress;Cloud+%26+DevOps+Enthusiast" />
@@ -8,32 +8,41 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack MERN Developer** from Pakistan 🇵🇰  
-Focused on building **scalable SaaS products and AI-powered systems**.
+Full-Stack MERN Developer from Pakistan 🇵🇰  
+Building **scalable SaaS applications and AI-powered systems**.
 
-Currently evolving from **Full-Stack Engineer → AI Engineer**,  
-integrating Machine Learning into production-ready applications.
+Currently transitioning into a **Production-Level AI Engineer**,  
+focused on integrating Machine Learning into real-world products.
 
 ---
 
-# 💻 Core Tech Stack
+# 💻 Core Engineering Stack
 
 ## 🖥 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap" />
 </p>
 
+- Component-driven architecture  
+- Responsive & performance-focused UI  
+- Modern React & Next.js patterns  
+
+---
+
 ## 🛠 Backend (MERN)
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-**Additional Backend Skills:**  
-REST APIs • Authentication (JWT) • MVC Architecture • Scalable API Design
+- REST API Design  
+- JWT Authentication  
+- MVC Architecture  
+- Scalable Backend Systems  
+- Clean Code & Modular Structure  
 
 ---
 
-# 🤖 AI / Machine Learning
+# 🤖 Artificial Intelligence & Machine Learning
 
 - Machine Learning (Regression, Classification, Clustering)
 - Scikit-learn & XGBoost
@@ -44,11 +53,12 @@ REST APIs • Authentication (JWT) • MVC Architecture • Scalable API Design
 - Time Series Forecasting
 - Feature Engineering & Model Evaluation
 
-🎯 2026 Focus:
+### 🎯 2026 Focus
 - Transformers & LLMs  
 - Embedding-based Recommendation Systems  
-- RAG Architectures  
-- Production ML Deployment  
+- Retrieval-Augmented Generation (RAG)  
+- Production ML Deployment (MLOps)  
+- AI System Architecture  
 
 ---
 
@@ -58,24 +68,50 @@ REST APIs • Authentication (JWT) • MVC Architecture • Scalable API Design
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,github" />
 </p>
 
-Dockerized applications • Kubernetes basics • CI/CD workflows • Cloud deployment (Azure & AWS)
+- Dockerized Applications  
+- Kubernetes Fundamentals  
+- CI/CD Pipelines  
+- Azure & AWS Deployments  
+- Cloud-Native System Design  
 
 ---
 
-# 🚀 Featured Project
+# 🧠 Problem Solving & DSA
 
-## CareerSync — AI-Powered Hiring Platform
+I actively practice Data Structures & Algorithms to strengthen:
 
-An intelligent job-matching & mentorship ecosystem.
+- Logical Thinking  
+- Optimization Skills  
+- Time & Space Complexity Analysis  
+- Clean & Efficient Code Writing  
+
+📌 Platforms:
+- LeetCode  
+- Competitive Programming Practice  
+
+Focused on mastering:
+- Binary Search  
+- Sliding Window  
+- Two Pointers  
+- Recursion & Backtracking  
+- Graph Algorithms  
+- Trees & Dynamic Programming  
+
+---
+
+# 🚀 Flagship Project — CareerSync
+
+AI-powered job matching & mentorship platform.
 
 **Current Stack:**  
 React • Node.js • MongoDB • Docker • Kubernetes • AWS  
 
-**2026 AI Vision:**  
-- AI-based job-candidate matching  
+**AI Vision (2026):**
+- AI-based job-candidate embeddings  
 - Skill gap analysis engine  
 - Personalized recommendations  
 - LLM-powered resume analysis  
+- Intelligent hiring assistant  
 
 ---
 
@@ -94,22 +130,24 @@ React • Node.js • MongoDB • Docker • Kubernetes • AWS
 # 🎯 2026 Goals
 
 - Become a Production-Level AI Engineer  
-- Build 5+ AI-powered SaaS Projects  
-- Master MLOps & Model Deployment  
+- Build 5+ AI-Powered SaaS Applications  
+- Master MLOps & Scalable AI Deployment  
 - Contribute to AI Open Source  
-- Scale CareerSync with AI Matching Engine  
+- Scale CareerSync into an AI-driven hiring ecosystem  
 
 ---
 
-# 🤝 Open to Collaboration
+# 🤝 Let’s Build Something Impactful
 
-Interested in working on:
+I’m open to collaborating on:
 
-- MERN Stack Applications  
-- AI & ML Projects  
-- SaaS Products  
-- Cloud-Native Systems  
+- AI & LLM-based Applications  
+- SaaS Platforms  
+- MERN Stack Products  
+- Cloud-Native Architectures  
 - Startup-Level Ideas  
+
+📩 If you're working on something ambitious — let's connect.
 
 ---
 
